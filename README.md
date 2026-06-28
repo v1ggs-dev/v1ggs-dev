@@ -74,17 +74,6 @@ Fully static React SPA for an inter-college hackathon — heavy motion design, a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%"/>
 
-### 🌱 Currently Building Towards
-
-- [x] Linux fundamentals & shell automation
-- [x] Containerization with Docker
-- [x] Networking fundamentals
-- [ ] Kubernetes & orchestration at scale
-- [ ] Cloud infrastructure (AWS) in depth
-- [ ] CI/CD pipelines & infra-as-code
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" width="100%"/>
-
 <div align="center">
 
 ### 📫 Let's Connect
